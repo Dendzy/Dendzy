@@ -18,4 +18,3 @@
 
 ##
 
-![Snake animation](https://github.com/Dendzy/Dendzy/blob/output/github-contribution-grid-snake.svg)
