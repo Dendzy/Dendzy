@@ -4,12 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yago+Code!;" />
 </h1>
 
-<h3 align="center">A developer Java</h3>
+<h3 align="center">A developer in Java</h3>
 
 <br/>
 
-<div align="center">
- 
+<div align="left">
+ <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250">
+    
  🔭 I’m currently studing at **a UFPB in Paraiba, Brazil**
  
  🌱 I’m currently learning **OO, data struture and MySql**
@@ -18,9 +19,11 @@
 
 ⚡ Fun fact **My dream is make a movie!**
 
+
+
  </div>
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:jose.oliveira@dcx.ufpb.br">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
